@@ -1,14 +1,4 @@
 body {
-    margin: 0;
-    padding: 0;
-}
-
-main,
-section {
-    display: block;
-}
-
-.hero {
-    background-color: black;
-    height: 60vh;
+    background-color: #ffffff;
+    color: #000000;
 }

@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/iamwebwiz/iamwebwiz.github.io/issues"
   },
-  "homepage": "https://github.com/iamwebwiz/iamwebwiz.github.io#readme"
+  "homepage": "https://github.com/iamwebwiz/iamwebwiz.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.24.66",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }

@@ -8,7 +8,7 @@ module.exports = {
       resolve: "gatsby-plugin-tidio-chat",
       options: {
         tidioKey: process.env.TIDIO_PUBLIC_KEY,
-        enableDuringDevelop: true,
+        enableDuringDevelop: false,
       },
     },
   ],

@@ -5509,6 +5509,11 @@ gatsby-plugin-page-creator@^2.3.29:
     graphql "^14.7.0"
     lodash "^4.17.20"
 
+gatsby-plugin-tidio-chat@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-tidio-chat/-/gatsby-plugin-tidio-chat-1.0.0.tgz#d9e27222ce7fce2e7e899c16a28e358a53a0bb97"
+  integrity sha512-rUcpnFSwNiqBPEtsH6GsQmpZN9BbePFduBm7AL/UGb1XqCrUSroq6ZNED2H44Gp5WJ0aCKkV/Tg1eratY6oAlQ==
+
 gatsby-plugin-typescript@^2.4.21:
   version "2.4.21"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.21.tgz#dabce631504351e28558028fb8ae23a8018f7672"

@@ -4,8 +4,8 @@
   "description": "Portfolio site for @iamwebwiz",
   "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "NODE_ENV=development gatsby develop",
+    "build": "NODE_ENV=production gatsby build",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/iamwebwiz/iamwebwiz.github.io#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "gatsby": "^2.24.66",
+    "gatsby-plugin-tidio-chat": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
